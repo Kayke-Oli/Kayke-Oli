@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=220&section=header&text=Kayke%20Rodrigues%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20C%2B%2B%20%7C%20Back-end%20%26%20Bancos%20de%20Dados&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=220&section=header&text=Kayke%20Rodrigues%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20C%2B%2B%20%7C%20Back-end%20%26%20Bancos%20de%20Dados&descAlignY=55&descSize=18" width="100%" alt="Banner Kayke"/>
 
-<a href="https://www.linkedin.com/in/kayke-r-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaykerodr5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1JGg4VB4J0dv_4p2wYYAJPV2vegb6U6pa/view?usp=drive_link"><img src="https://img.shields.io/badge/Currículo-2C3E50?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<br>
+
+<a href="https://www.linkedin.com/in/kayke-r-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaykerodr5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1JGg4VB4J0dv_4p2wYYAJPV2vegb6U6pa/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Currículo-2C3E50?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Currículo"/></a>
 
 </div>
 
 <br/>
-
 ## 👋 Sobre mim
 
 Estudante de **Ciência da Computação** na **UFV**, focado no desenvolvimento de sistemas robustos, desde a arquitetura do back-end até a modelagem de banco de dados. Tenho um forte interesse em **C++**, **Python** e matemática avançada (lógica discreta, álgebra linear e estatística), habilidades que consolido ativamente através de maratonas de programação.
