@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C3E50,100:3498DB&amp;height=220&amp;section=header&amp;text=Kayke%20Rodrigues%20de%20Oliveira&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Ciencia%20da%20Computacao%20%7C%20C%2B%2B%20%7C%20Back-end%20e%20Bancos%20de%20Dados&amp;descAlignY=55&amp;descSize=18" width="100%" alt="Banner Kayke"/>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/kayke-r-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kaykerodr5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
@@ -10,7 +10,6 @@
 
 </div>
 
-<br/>
 ## 👋 Sobre mim
 
 Estudante de **Ciência da Computação** na **UFV**, focado no desenvolvimento de sistemas robustos, desde a arquitetura do back-end até a modelagem de banco de dados. Tenho um forte interesse em **C++**, **Python** e matemática avançada (lógica discreta, álgebra linear e estatística), habilidades que consolido ativamente através de maratonas de programação.
@@ -21,8 +20,6 @@ Gosto de entender **o porquê** de cada decisão técnica — não apenas fazer 
 - 🌱 Aprofundando conhecimento em **SQL avançado, requisições HTTP (Python/requests) e arquitetura em camadas**.
 - 💬 Pergunte-me sobre C++, estruturas de dados implementadas do zero, lógica matemática ou PostgreSQL/libpqxx.
 - ⚡ Prefiro entender a raiz de um bug a só resolver o sintoma.
-
-<br/>
 
 ## 🛠️ Stack
 
@@ -38,8 +35,6 @@ Gosto de entender **o porquê** de cada decisão técnica — não apenas fazer 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
-<br/>
 
 ## 🚀 Projetos em destaque
 
@@ -108,21 +103,21 @@ Back-end estruturado de forma colaborativa para organizar o fluxo de entrada e a
 </tr>
 </table>
 
-<br/>
-
 ## 📊 Estatísticas
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kayke-Oli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Oli&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kayke-Oli&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Oli&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Linguagens mais usadas" />
 </div>
+
+<br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kayke-Oli&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kayke-Oli&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498DB,100:2C3E50&height=100&section=footer" width="100%"/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3498DB,100:2C3E50&amp;height=100&amp;section=footer" width="100%" alt="Footer Banner"/>
 </div>
