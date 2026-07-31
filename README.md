@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=220&section=header&text=Kayke%20Rodrigues%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20C%2B%2B%20%7C%20Back-end%20%26%20Bancos%20de%20Dados&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/kayke-r-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kaykerodr5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaykerodr5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1JGg4VB4J0dv_4p2wYYAJPV2vegb6U6pa/view?usp=drive_link"><img src="https://img.shields.io/badge/Currículo-2C3E50?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 
 </div>
