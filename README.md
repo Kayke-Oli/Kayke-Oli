@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=220&section=header&text=Kayke%20Rodrigues%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20C%2B%2B%20%7C%20Sistemas%20%26%20Banco%20de%20Dados&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kaykerodr5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Currículo-2C3E50?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 
 </div>
