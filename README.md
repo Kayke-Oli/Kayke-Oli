@@ -106,18 +106,16 @@ Back-end estruturado de forma colaborativa para organizar o fluxo de entrada e a
 ## 📊 Estatísticas
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kayke-Oli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Oli&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</div>
 
-<br>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kayke-Oli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Oli&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kayke-Oli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<br><br>
 
-<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kayke-Oli&theme=tokyonight&hide_border=true)
 
-<div align="center">
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498DB,100:2C3E50&height=100&section=footer" width="100%" alt="Footer Banner"/>
+
 </div>
