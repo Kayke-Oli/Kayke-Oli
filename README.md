@@ -101,6 +101,22 @@ Back-end estruturado de forma colaborativa para organizar o fluxo de entrada e a
 
 </td>
 </tr>
+<td width="50%" valign="top">
+
+### 📈 [Sistema de Login](https://github.com/Kayke-Oli/Sistema-de-Login)
+
+Um sistema de autenticação full-stack desenvolvido com foco em segurança e usabilidade.
+
+**Destaques técnicos:**
+- **Gestão de Sessão(JWT)**: Armazenamento de token e proteção de rotas no backend
+- injeção de dependência: NestJS fornece AuthService, AuthController e o ConfigService
+- Frontend e Backend trocam dados utilizando JSON
+- As diferentes "telas" não são páginas diferentes
+
+`NestJS` `TypeScript` `Supabase(Local)` `HTML`
+
+</td>
+</tr>
 </table>
 
 ## 📊 Estatísticas
