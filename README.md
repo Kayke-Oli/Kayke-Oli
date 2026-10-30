@@ -1,137 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:3498DB&height=220&section=header&text=Kayke%20Rodrigues%20de%20Oliveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciencia%20da%20Computacao%20%7C%20C%2B%2B%20%7C%20Back-end%20e%20Bancos%20de%20Dados&descAlignY=55&descSize=18" width="100%" alt="Banner Kayke"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=170&section=header&text=Kayke%20Rodrigues%20de%20Oliveira&fontSize=34&fontColor=FFFFFF&fontAlignY=36&desc=Ciencia%20da%20Computacao%20%7C%20C%2B%2B%20%7C%20Back-end&descAlignY=57&descSize=17" width="100%" alt="Banner com o nome Kayke Rodrigues de Oliveira" />
 
-<br>
+**Estudante de Ciência da Computação na UFV | Desenvolvimento de software, back-end e aplicações desktop**
 
-<a href="https://www.linkedin.com/in/kayke-r-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaykerodr5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://drive.google.com/file/d/1JGg4VB4J0dv_4p2wYYAJPV2vegb6U6pa/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Currículo-2C3E50?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Currículo"/></a>
-
-</div>
-
-## 👋 Sobre mim
-
-Estudante de **Ciência da Computação** na **UFV**, focado no desenvolvimento de sistemas robustos, desde a arquitetura do back-end até a modelagem de banco de dados. Tenho um forte interesse em **C++**, **Python** e matemática avançada (lógica discreta, álgebra linear e estatística), habilidades que consolido ativamente através de maratonas de programação.
-
-Gosto de entender **o porquê** de cada decisão técnica — não apenas fazer o código funcionar, mas compreender o que acontece por baixo dos panos: como uma query é otimizada, o consumo de memória em algoritmos complexos, e como garantir a segurança e a integridade da informação.
-
-- 🔭 Atualmente desenvolvendo o **TFD** — sistema de transporte de pacientes para o setor público, com interface em Qt e PostgreSQL.
-- 🌱 Aprofundando conhecimento em **SQL avançado, requisições HTTP (Python/requests) e arquitetura em camadas**.
-- 💬 Pergunte-me sobre C++, estruturas de dados implementadas do zero, lógica matemática ou PostgreSQL/libpqxx.
-- ⚡ Prefiro entender a raiz de um bug a só resolver o sintoma.
-
-## 🛠️ Stack
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<a href="https://www.linkedin.com/in/kayke-r-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kaykerodr5@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://drive.google.com/file/d/1JGg4VB4J0dv_4p2wYYAJPV2vegb6U6pa/view?usp=drive_link"><img src="https://img.shields.io/badge/Curr%C3%ADculo-334155?style=flat-square&logo=readthedocs&logoColor=white" alt="Currículo" /></a>
 
 </div>
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Ciência da Computação na Universidade Federal de Viçosa (UFV)**, com interesse em desenvolvimento de software, especialmente **C++, back-end e bancos de dados**.
+
+Tenho experiência no desenvolvimento de uma aplicação desktop para a **logística de transporte de pacientes da Prefeitura de Piranga (MG)**, utilizando **C++17, Qt, PostgreSQL e libpqxx**. Também desenvolvo projetos com **NestJS, TypeScript e Python** e atuo como **monitor de Introdução à Programação na UFV**, ajudando estudantes a compreender lógica e fundamentos de programação.
+
+🎯 **Objetivo:** oportunidades de estágio em desenvolvimento de software, com foco em aprender, colaborar e contribuir em projetos reais.
 
 ## 🚀 Projetos em destaque
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🏥 [Gestão de Transporte de Pacientes — TFD](https://github.com/Kayke-Oli/Projeto-transporte-Prefeitura-Piranga)
 
-### 🏥 [TFD — Transporte Municipal de Pacientes](https://github.com/Kayke-Oli/Projeto-transporte-Prefeitura-Piranga)
+**`C++17` · `Qt 6` · `PostgreSQL` · `libpqxx` · `CMake`**
 
-Sistema de gestão on-premise para controle logístico de transporte de pacientes. Migrado de SQLite local para **PostgreSQL 16** multi-máquina.
+Aplicação desktop voltada à organização de viagens de pacientes em tratamento fora do domicílio, desenvolvida para o contexto da Prefeitura de Piranga (MG).
 
-**Destaques técnicos:**
-- Conexão **SSL obrigatória** (TLSv1.3), recusando modos fracos antes da conexão
-- Reconexão automática via *ping* ativo — `is_open()` sozinho não detecta quedas
-- Gestão segura de credenciais via variáveis de ambiente
-- Interface desktop em **Qt**, arquitetura em camadas (Entidade → Repository → UI)
+- Separação entre interface gráfica, entidades e camada de persistência.
+- Integração com PostgreSQL usando consultas parametrizadas e transações para preservar a consistência dos dados.
+- Validação de informações, configuração de credenciais por variáveis de ambiente e conexão ao banco com TLS.
+- Testes automatizados de funções utilitárias com CTest.
 
-`C++` `PostgreSQL` `libpqxx` `Qt` `SQL`
+**[Ver projeto e documentação](https://github.com/Kayke-Oli/Projeto-transporte-Prefeitura-Piranga)**
 
-</td>
-<td width="50%" valign="top">
+### 🔐 [Sistema de Login e Autenticação](https://github.com/Kayke-Oli/Sistema-de-Login)
+
+**`TypeScript` · `NestJS` · `Supabase` · `PostgreSQL` · `Vite`**
+
+Aplicação full-stack com cadastro de usuários, autenticação e gerenciamento de perfil.
+
+- Backend com NestJS e autenticação baseada em JWT.
+- Validação de credenciais, limitação de tentativas de login e proteção de rotas.
+- Interface web para cadastro, login e atualização de dados do usuário.
+
+**[Ver projeto e documentação](https://github.com/Kayke-Oli/Sistema-de-Login)**
 
 ### 📈 [Simulador de Carteira de Ações](https://github.com/Kayke-Oli/Banco-de-Dados-de-A-es---Simulador-de-Carteira)
 
-Simulador financeiro focado no acompanhamento de ativos, processando históricos de cotações e dividendos via stdin.
+**`C++` · `Estruturas de dados` · `Algoritmos`**
 
-**Destaques técnicos:**
-- **Zero STL**: arrays dinâmicos, busca binária e ordenação estável feitos do zero
-- Valores monetários em centavos (inteiros) para evitar erros de ponto flutuante
-- Controle de versionamento rigoroso para rastreamento contínuo
-- Consultas de valor e rebalanceamento automático por aporte
+Simulador de investimentos que processa históricos de cotações, operações e dividendos por meio da entrada padrão.
 
-`C++` `Estruturas de Dados` `Algoritmos`
+- Implementação de arrays dinâmicos, busca binária e ordenação sem utilizar contêineres e algoritmos prontos da STL.
+- Representação de valores monetários em centavos inteiros para evitar imprecisões de ponto flutuante.
+- Consultas e simulações de evolução patrimonial e rebalanceamento da carteira.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**[Ver projeto e documentação](https://github.com/Kayke-Oli/Banco-de-Dados-de-A-es---Simulador-de-Carteira)**
 
-### 🎮 [Tom & Jerry (Clone Pac-Man)](https://github.com/Kayke-Oli/Tom-and-Jerry-game-inspired-by-Pac-Man)
+### 🎮 [Tom & Jerry — Jogo inspirado em Pac-Man](https://github.com/Kayke-Oli/Tom-and-Jerry-game-inspired-by-Pac-Man)
 
-Jogo 2D colaborativo construído com **SFML**, reimaginando a mecânica clássica de controle contínuo e loop de jogo.
+**`C++` · `SFML` · `Matrizes` · `Lógica de jogos`**
 
-**Destaques técnicos:**
-- Manipulação de matrizes bidimensionais para renderização do mapa
-- Detecção matemática precisa de colisões
-- Controle de movimentação e estados das entidades
+Jogo 2D desenvolvido em colaboração, com movimentação em grade, detecção de colisões, estados de personagens e comportamento básico de inimigos.
 
-`C++` `SFML` `Lógica Algorítmica`
+**[Ver projeto](https://github.com/Kayke-Oli/Tom-and-Jerry-game-inspired-by-Pac-Man)**
 
-</td>
-<td width="50%" valign="top">
+## 🛠️ Tecnologias e ferramentas
 
-### 🔐 Sistema de Gestão Hospitalar
+**Linguagens**
 
-Back-end estruturado de forma colaborativa para organizar o fluxo de entrada e autenticação segura em ambientes de saúde.
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-475569?style=flat-square)
 
-**Destaques técnicos:**
-- Validação rigorosa de leitura de dados e prevenção de falhas de input
-- Arquitetura focada na estabilidade e integridade da informação
-- Prevenção de quebras no sistema através de blindagem de dados
+**Frameworks e bibliotecas**
 
-`C++` `Engenharia de Software` `Autenticação`
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-4B5563?style=flat-square)
 
-</td>
-</tr>
-<td width="50%" valign="top">
+**Banco de dados e ferramentas**
 
-### 📈 [Sistema de Login](https://github.com/Kayke-Oli/Sistema-de-Login)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
-Um sistema de autenticação full-stack desenvolvido com foco em segurança e usabilidade.
+## 🎓 Experiência e formação
 
-**Destaques técnicos:**
-- **Gestão de Sessão(JWT)**: Armazenamento de token e proteção de rotas no backend
-- injeção de dependência: NestJS fornece AuthService, AuthController e o ConfigService
-- Frontend e Backend trocam dados utilizando JSON
-- As diferentes "telas" não são páginas diferentes
+- **Monitor de Introdução à Programação — UFV** · abril/2026 – atual  
+  Apoio a estudantes das disciplinas INF100/INF101, com explicações de lógica de programação, resolução de exercícios e acompanhamento de dúvidas.
+- **Bacharelado em Ciência da Computação — UFV** · março/2025 – previsão de conclusão em dezembro/2028.
 
-`NestJS` `TypeScript` `Supabase(Local)` `HTML`
-
-</td>
-</tr>
-</table>
-
-## 📊 Estatísticas
+---
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats-chi-nine-82.vercel.app/api?username=Kayke-Oli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats-chi-nine-82.vercel.app/api/top-langs/?username=Kayke-Oli&layout=compact&theme=tokyonight&hide_border=true)
+**Vamos conversar sobre tecnologia e desenvolvimento de software?**
 
-<br><br>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kayke-Oli&theme=tokyonight&hide_border=true)
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498DB,100:2C3E50&height=100&section=footer" width="100%" alt="Footer Banner"/>
+[LinkedIn](https://www.linkedin.com/in/kayke-r-oliveira/) · [E-mail](mailto:kaykerodr5@gmail.com) · [Currículo](https://drive.google.com/file/d/1Wx55e_RMUPBmjd7aSV6vs2jUaKTVfMDj/view?usp=drive_link)
 
 </div>
