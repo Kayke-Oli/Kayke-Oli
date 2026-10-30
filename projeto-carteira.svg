@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 400" width="940" height="400" role="img">
+    <defs>
+     <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081221"/><stop offset=".55" stop-color="#0D1F35"/><stop offset="1" stop-color="#132B49"/></linearGradient>
+     <radialGradient id="glow" cx="50%" cy="50%" r="55%"><stop offset="0" stop-color="#62EEC2" stop-opacity=".26"/><stop offset="1" stop-color="#62EEC2" stop-opacity="0"/></radialGradient>
+     <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#8ADAF6" opacity=".09" stroke-width=".7"/></pattern>
+     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62EEC2"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#back)"/>
+    <rect width="100%" height="100%" fill="url(#grid)"/>
+    <circle cx="789.6" cy="160.0" r="328.0" fill="url(#glow)"/>
+    <rect x="2" y="2" width="936" height="396" rx="24" fill="none" stroke="#45617B" stroke-opacity=".42" stroke-width="2"/>
+    <path d="M24 397 H916" stroke="url(#edge)" stroke-width="4" stroke-linecap="round"/>
+    <title>projeto-carteira.svg</title><desc>Arte ilustrativa para o cartão de projeto no perfil do GitHub, não é uma captura de tela do programa.</desc><circle cx="43" cy="45" r="5.5" fill="#62EEC2"/><text x="57" y="51" fill="#A9CBDC" font-size="18" font-weight="650" font-family="Segoe UI,DejaVu Sans,Arial,sans-serif" letter-spacing="2.0">PROJETO 03 / ALGORITMOS</text><text x="41" y="135" fill="#F5FAFF" font-size="50" font-weight="750" font-family="Segoe UI,DejaVu Sans,Arial,sans-serif" letter-spacing="-0.9">SIMULADOR DE</text><text x="41" y="197" fill="#F5FAFF" font-size="50" font-weight="750" font-family="Segoe UI,DejaVu Sans,Arial,sans-serif" letter-spacing="-0.9">CARTEIRA</text><rect x="42" y="230" width="62" height="5" rx="2.5" fill="#62EEC2"/><text x="42" y="332" fill="#B3D5E6" font-size="19" font-weight="500" font-family="Segoe UI,DejaVu Sans,Arial,sans-serif">C++   /   ESTRUTURAS DE DADOS</text><g transform="translate(535 75)">
+<rect x="0" y="0" width="360" height="245" rx="16" fill="#0C1B2A" stroke="#2E786E" stroke-width="2"/>
+<text x="22" y="39" fill="#DDFCF2" font-size="17" font-family="Arial,sans-serif" font-weight="bold">Evolução da carteira</text>
+<text x="22" y="73" fill="#74E4BB" font-size="29" font-family="Arial,sans-serif" font-weight="bold">+ R$</text>
+<path d="M27 202H330 M27 155H330 M27 108H330" stroke="#35515C" stroke-width="1" stroke-dasharray="5 7"/>
+<path d="M27 193 L67 169 L100 181 L145 132 L175 142 L217 105 L252 122 L292 79 L331 92" fill="none" stroke="#54F3B3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27 193 L67 169 L100 181 L145 132 L175 142 L217 105 L252 122 L292 79 L331 92 L331 216 L27 216Z" fill="#24BD95" opacity=".14"/>
+<circle cx="292" cy="79" r="7" fill="#83FFD2"/>
+</g></svg>
